@@ -298,7 +298,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: PERFORMANCE
+      label: EMPOWER
       color: text-primary
       styles:
         self:
