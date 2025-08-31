@@ -91,7 +91,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: PERFORMANCE
       color: text-primary
       styles:
         self:
