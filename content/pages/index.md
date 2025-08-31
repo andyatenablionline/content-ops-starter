@@ -211,7 +211,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Platform-Native Expertise
+      text: Built to Grow with You
       color: text-dark
       styles:
         self:
