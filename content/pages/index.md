@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 50+
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Brands Managed
         actions: []
