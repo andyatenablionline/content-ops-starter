@@ -400,7 +400,7 @@ sections:
           name: Your Company
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your Company
           isRequired: true
           width: full
       elementId: contact-form
