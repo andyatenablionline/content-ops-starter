@@ -57,56 +57,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Platform-Native Expertise
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      At ENABLI, we don’t just understand e-commerce—we live it.
-
-
-      Our team operates deep within platforms like Shopee, Lazada, and TikTok
-      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
-      execution that help your brand outperform the competition.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: PERFORMANCE
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Delivering Growth for Ambitious Brands
@@ -208,6 +158,56 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Platform-Native Expertise
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      At ENABLI, we don’t just understand e-commerce—we live it.
+
+
+      Our team operates deep within platforms like Shopee, Lazada, and TikTok
+      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
+      execution that help your brand outperform the competition.
+    media:
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: PERFORMANCE
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
