@@ -365,7 +365,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Ready to grow your e-commerce business with ENABLI?
+      text: Ready to grow your business with ENABLI?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
