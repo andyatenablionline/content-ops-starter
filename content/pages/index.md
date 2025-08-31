@@ -65,11 +65,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At ENABLI, we don’t just understand e-commerce—we live it.
+
+
+      Our team operates deep within platforms like Shopee, Lazada, and TikTok
+      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
+      execution that help your brand outperform the competition.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
