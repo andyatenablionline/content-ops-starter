@@ -218,12 +218,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      At ENABLI, we don’t just understand e-commerce—we live it.
+      From solopreneurs to scaling DTC brands, our modular services adapt as
+      your business grows.
 
 
-      Our team operates deep within platforms like Shopee, Lazada, and TikTok
-      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
-      execution that help your brand outperform the competition.
+      Whether you're launching your first SKU or managing 1,000+, we streamline
+      your ops, automate your workflows, and help you stay lean and fast.
     actions: []
     media:
       type: VideoBlock
