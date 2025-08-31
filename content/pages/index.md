@@ -8,7 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: ''
+    text: >
+      At **ENABLI**, we empower ambitious brands and sellers with end-to-end
+      e-commerce solutions — from digital storefront operations to full-funnel
+      growth strategy.
+
+
+      Our platform combines hands-on execution with smart automation to
+      streamline your sales, boost visibility, and scale results across Shopee,
+      Lazada, TikTok Shop, and beyond.
     actions:
       - label: Get started
         altText: ''
