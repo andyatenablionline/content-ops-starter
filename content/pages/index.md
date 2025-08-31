@@ -262,7 +262,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Platform-Native Expertise
+      text: 'Full Visibility, Full Control'
       color: text-dark
       styles:
         self:
