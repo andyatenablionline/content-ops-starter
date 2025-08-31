@@ -269,12 +269,11 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      At ENABLI, we don’t just understand e-commerce—we live it.
+      We equip you with live dashboards, transparent reporting, and human
+      support—so you always know where your sales, spend, and profits stand.
 
 
-      Our team operates deep within platforms like Shopee, Lazada, and TikTok
-      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
-      execution that help your brand outperform the competition.
+      Our goal: make e-commerce scalable **without** losing control.
     actions: []
     media:
       type: VideoBlock
