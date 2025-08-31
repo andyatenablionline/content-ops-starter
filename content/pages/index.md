@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 1000+
         subtitle: Faster
         text: ''
         image:
