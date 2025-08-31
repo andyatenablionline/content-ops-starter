@@ -383,13 +383,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - type: TextFormControl
           name: Your Company
           label: Name
@@ -397,6 +390,13 @@ sections:
           placeholder: Your Company
           isRequired: true
           width: full
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
