@@ -59,7 +59,7 @@ sections:
     type: DividerSection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Delivering Growth for Ambitious Brands
       color: text-dark
       styles:
         self:
