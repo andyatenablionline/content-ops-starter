@@ -208,6 +208,57 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Platform-Native Expertise
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >
+      At ENABLI, we don’t just understand e-commerce—we live it.
+
+
+      Our team operates deep within platforms like Shopee, Lazada, and TikTok
+      Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
+      execution that help your brand outperform the competition.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: PERFORMANCE
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
