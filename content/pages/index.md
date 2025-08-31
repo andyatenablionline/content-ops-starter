@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 50+
-        subtitle: ''
+        subtitle: Brands Managed
         text: |
           Brands Managed
         actions: []
