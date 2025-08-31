@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Power Up Your Brand with Smarter E-Commerce Enablement
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
