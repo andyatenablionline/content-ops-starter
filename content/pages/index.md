@@ -97,10 +97,7 @@ sections:
               borderRadius: x-large
       - title: 1700+
         subtitle: SKUs Handled
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/icon2.svg
           altText: Featured icon two
