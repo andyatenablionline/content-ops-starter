@@ -72,8 +72,7 @@ sections:
       - type: FeaturedItem
         title: 50+
         subtitle: Brands Managed
-        text: |
-          Brands Managed
+        text: ''
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
