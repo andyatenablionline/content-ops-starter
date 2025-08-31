@@ -390,12 +390,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
         - type: TextFormControl
           name: Your Company
           label: Name
@@ -403,6 +397,12 @@ sections:
           placeholder: Your Company
           isRequired: true
           width: full
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+          type: TextareaFormControl
       elementId: contact-form
       styles:
         self:
