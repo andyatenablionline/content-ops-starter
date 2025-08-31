@@ -72,7 +72,8 @@ sections:
       - type: FeaturedItem
         title: 50+
         subtitle: Numbers Done
-        text: ''
+        text: |
+          Brands Managed
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
