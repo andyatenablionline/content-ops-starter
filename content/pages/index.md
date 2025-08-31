@@ -247,7 +247,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: PERFORMANCE
+      label: SCALE
       color: text-primary
       styles:
         self:
