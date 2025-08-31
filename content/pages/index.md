@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 1000+
-        subtitle: Faster
+        subtitle: Campaigns Executed
         text: ''
         image:
           url: /images/icon3.svg
