@@ -65,7 +65,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      ENABLI powers results across Shopee, Lazada, and TikTok Shop through
+      data-driven execution and campaign excellence.
     items:
       - type: FeaturedItem
         title: 500k
