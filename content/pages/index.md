@@ -389,5 +389,6 @@ seo:
     campaign execution on Shopee, Lazada, TikTok Shop, and more.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
