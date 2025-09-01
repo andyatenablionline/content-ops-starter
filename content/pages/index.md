@@ -387,7 +387,7 @@ seo:
     ENABLI empowers ambitious brands in Southeast Asia with full-service
     e-commerce solutions—from digital storefronts to smart automation and
     campaign execution on Shopee, Lazada, TikTok Shop, and more.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/logo.jpg
   type: Seo
   addTitleSuffix: true
 type: PageLayout
