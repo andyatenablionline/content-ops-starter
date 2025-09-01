@@ -383,7 +383,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: ENABLI – E-Commerce Solutions for Growing Brands
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    ENABLI empowers ambitious brands in Southeast Asia with full-service
+    e-commerce solutions—from digital storefronts to smart automation and
+    campaign execution on Shopee, Lazada, TikTok Shop, and more.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
