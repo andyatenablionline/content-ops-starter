@@ -8,15 +8,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      At **ENABLI**, we empower ambitious brands and sellers with end-to-end
-      e-commerce solutions — from digital storefront operations to full-funnel
-      growth strategy.
+    text: >+
+      At **ENABLI**, we help ambitious brands unlock growth with **AI-powered
+      e-commerce solutions** — from smart storefronts to precision advertising
+      and performance analytics.
 
 
-      Our platform combines hands-on execution with smart automation to
-      streamline your sales, boost visibility, and scale results across Shopee,
-      Lazada, TikTok Shop, and beyond.
+      Our end-to-end platform blends automation with human insight to simplify
+      operations, boost visibility, and scale success across platforms like
+      **Shopee, Lazada, and TikTok Shop**.
+
+
+      Whether you're managing 10 SKUs or 10,000, ENABLI gives you the tools to
+      grow faster, smarter, and leaner.
+
     actions:
       - label: Get started
         altText: ''
