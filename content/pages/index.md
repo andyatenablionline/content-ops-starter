@@ -8,15 +8,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      At **ENABLI**, we empower ambitious brands and sellers with end-to-end
-      e-commerce solutions — from digital storefront operations to full-funnel
-      growth strategy.
+    text: >+
+      At **ENABLI**, we help ambitious brands unlock growth with **AI-powered
+      e-commerce solutions** — from smart storefronts to precision advertising
+      and performance analytics.
 
 
-      Our platform combines hands-on execution with smart automation to
-      streamline your sales, boost visibility, and scale results across Shopee,
-      Lazada, TikTok Shop, and beyond.
+      Our end-to-end platform blends automation with human insight to simplify
+      operations, boost visibility, and scale success across platforms like
+      **Shopee, Lazada, and TikTok Shop**.
+
+
+      Whether you're managing 10 SKUs or 10,000, ENABLI gives you the tools to
+      grow faster, smarter, and leaner.
+
     actions:
       - label: Get started
         altText: ''
@@ -28,7 +33,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/main pic.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -173,26 +178,6 @@ sections:
       Our team operates deep within platforms like Shopee, Lazada, and TikTok
       Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
       execution that help your brand outperform the competition.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: PERFORMANCE
       color: text-primary
@@ -225,26 +210,6 @@ sections:
       Whether you're launching your first SKU or managing 1,000+, we streamline
       your ops, automate your workflows, and help you stay lean and fast.
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: SCALE
@@ -275,26 +240,6 @@ sections:
 
       Our goal: make e-commerce scalable **without** losing control.
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: EMPOWER
@@ -382,9 +327,13 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: ENABLI – E-Commerce Solutions for Growing Brands
+  metaDescription: >-
+    ENABLI empowers ambitious brands in Southeast Asia with full-service
+    e-commerce solutions—from digital storefronts to smart automation and
+    campaign execution on Shopee, Lazada, TikTok Shop, and more.
+  socialImage: /images/logo.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
