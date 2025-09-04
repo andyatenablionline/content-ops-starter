@@ -33,7 +33,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/abstract-feature1.svg
+      url: /images/main pic.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
