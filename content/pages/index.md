@@ -178,26 +178,6 @@ sections:
       Our team operates deep within platforms like Shopee, Lazada, and TikTok
       Shop, bringing algorithm-first strategies, ad optimisation, and day-to-day
       execution that help your brand outperform the competition.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: PERFORMANCE
       color: text-primary
